@@ -1,0 +1,16 @@
+10-keyboard
+11-mobilephone
+12-mouse
+13-headphones
+14-monitor
+15-speaker
+16-number
+1-wrench
+2-soldering-iron
+3-electrodrill
+4-tape-measure
+5-screwdriver
+6-pliers
+7-oscillograph
+8-multimeter
+9-printer
