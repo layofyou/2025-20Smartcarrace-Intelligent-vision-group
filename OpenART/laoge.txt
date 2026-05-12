@@ -1,0 +1,15 @@
+wrench
+soldering_iron
+electrodrill
+tape_measure
+screwdriver
+pliers
+oscillograph
+multimeter
+printer
+keyboard
+mobile_phone
+mouse
+headphones
+monitor
+speaker
